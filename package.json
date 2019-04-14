@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnayoOleru/React-Redux-Playground.git"
+  },
+  "author": "Anayo Oleru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnayoOleru/React-Redux-Playground/issues"
+  },
+  "homepage": "https://github.com/AnayoOleru/React-Redux-Playground#readme"
+}
